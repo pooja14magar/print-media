@@ -1,0 +1,22 @@
+h1,h2{
+    color:brown;
+}
+/* @media print{
+    p{
+        font-family: arial;
+        line-height: 25px;
+    }
+    h1,h2{
+        font-family: arial;
+        color:aqua;
+    }
+} */
+ /* @page{
+    margin: 0;
+ } */
+  /* @page{
+    size: landscape;
+  } */
+  @page{
+    size:3in 8in;
+  }
